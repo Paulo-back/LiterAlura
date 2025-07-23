@@ -32,16 +32,16 @@ public class Principal {
         var i = 77;
         while(i!=0) {
             System.out.println(
-                    """
-                            1 - Buscar livro pelo título
-                            2 - Listar livros registrados
-                            3 - Listar autores registrados
-                            4 - Listar autores vivos em um determinado ano
-                            5 - Listar livros em determinado idioma
-                            6 - Pesquisa autores por nome
-                            7 - Top 10 Livros
-                            8 - Busca autor
-                            0 - Sair
+                    """     
+                            \n1 - Buscar livro pelo título 🔍
+                            2 - Listar livros registrados 📚
+                            3 - Listar autores registrados ✍️
+                            4 - Listar autores vivos em um determinado ano ⏳🌳
+                            5 - Listar livros em determinado idioma 🗣️
+                            6 - Pesquisa autores por nome 🧑‍💻
+                            7 - Top 10 Livros 🏆
+                            8 - Busca autor ℹ️
+                            0 - Sair 🚪
                             
                             """
             );
